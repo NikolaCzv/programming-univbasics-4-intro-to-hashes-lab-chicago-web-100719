@@ -8,7 +8,7 @@ end
 
 def my_hash
   hash = {
-    :name = "Bruno"
+    :name => "Bruno"
   }
 end
 
