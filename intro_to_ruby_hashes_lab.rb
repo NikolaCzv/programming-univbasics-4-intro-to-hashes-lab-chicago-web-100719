@@ -42,3 +42,4 @@ if hash[key]
 else
   puts hash[key] = 1
 end
+end
