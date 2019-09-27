@@ -40,4 +40,6 @@ def update_counting_hash(hash, key)
 hash = {
   :apple => 1
 }
+
+
 end
